@@ -1,0 +1,14 @@
+C:\Users\eyupg\OneDrive\Masaüstü\O Bu Şu\Dersler\Nesne Tabanlı Programlama\Patika.dev2\Patika.dev2\bin\Debug\net8.0\Patika.dev2.exe
+C:\Users\eyupg\OneDrive\Masaüstü\O Bu Şu\Dersler\Nesne Tabanlı Programlama\Patika.dev2\Patika.dev2\bin\Debug\net8.0\Patika.dev2.deps.json
+C:\Users\eyupg\OneDrive\Masaüstü\O Bu Şu\Dersler\Nesne Tabanlı Programlama\Patika.dev2\Patika.dev2\bin\Debug\net8.0\Patika.dev2.runtimeconfig.json
+C:\Users\eyupg\OneDrive\Masaüstü\O Bu Şu\Dersler\Nesne Tabanlı Programlama\Patika.dev2\Patika.dev2\bin\Debug\net8.0\Patika.dev2.dll
+C:\Users\eyupg\OneDrive\Masaüstü\O Bu Şu\Dersler\Nesne Tabanlı Programlama\Patika.dev2\Patika.dev2\bin\Debug\net8.0\Patika.dev2.pdb
+C:\Users\eyupg\OneDrive\Masaüstü\O Bu Şu\Dersler\Nesne Tabanlı Programlama\Patika.dev2\Patika.dev2\obj\Debug\net8.0\Patika.dev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eyupg\OneDrive\Masaüstü\O Bu Şu\Dersler\Nesne Tabanlı Programlama\Patika.dev2\Patika.dev2\obj\Debug\net8.0\Patika.dev2.AssemblyInfoInputs.cache
+C:\Users\eyupg\OneDrive\Masaüstü\O Bu Şu\Dersler\Nesne Tabanlı Programlama\Patika.dev2\Patika.dev2\obj\Debug\net8.0\Patika.dev2.AssemblyInfo.cs
+C:\Users\eyupg\OneDrive\Masaüstü\O Bu Şu\Dersler\Nesne Tabanlı Programlama\Patika.dev2\Patika.dev2\obj\Debug\net8.0\Patika.dev2.csproj.CoreCompileInputs.cache
+C:\Users\eyupg\OneDrive\Masaüstü\O Bu Şu\Dersler\Nesne Tabanlı Programlama\Patika.dev2\Patika.dev2\obj\Debug\net8.0\Patika.dev2.dll
+C:\Users\eyupg\OneDrive\Masaüstü\O Bu Şu\Dersler\Nesne Tabanlı Programlama\Patika.dev2\Patika.dev2\obj\Debug\net8.0\refint\Patika.dev2.dll
+C:\Users\eyupg\OneDrive\Masaüstü\O Bu Şu\Dersler\Nesne Tabanlı Programlama\Patika.dev2\Patika.dev2\obj\Debug\net8.0\Patika.dev2.pdb
+C:\Users\eyupg\OneDrive\Masaüstü\O Bu Şu\Dersler\Nesne Tabanlı Programlama\Patika.dev2\Patika.dev2\obj\Debug\net8.0\Patika.dev2.genruntimeconfig.cache
+C:\Users\eyupg\OneDrive\Masaüstü\O Bu Şu\Dersler\Nesne Tabanlı Programlama\Patika.dev2\Patika.dev2\obj\Debug\net8.0\ref\Patika.dev2.dll
